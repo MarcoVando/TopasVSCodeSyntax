@@ -33,5 +33,5 @@ Download the package from the VSCode store or move the package into %user%\.vsco
 - Topas extension for a quicker and easier use of TOPAS .inp interface within VSCode together with a multiple set of extensions
 - Topas Language server for live suggestions and documentation on TOPAS commands
 
-##Contact
+## Contact  
 For any doubt and/or information please contact Marco Vandone marco.vandone@unimi.it
