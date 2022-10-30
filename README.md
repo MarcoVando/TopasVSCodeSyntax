@@ -8,6 +8,7 @@ This package provide useful syntax file for the syntax highlighting of .inp and 
 Snippets of useful codes are also available.
 
 ## Requirements
+
 - VSCode editor
 
 ## Known Issues
@@ -20,14 +21,13 @@ Syntax highlighting could not work properly for some commands. In case of errors
 
 Initial release of Syntax package for text highlighting of .inp and .out files of TOPAS for PXRD analysis
 
-## Requirements
-
-
 ## Installation
+
 Download the package from the VSCode store or move the package into %user%\.vscode\extensions\
 For a better experience I suggest to also install CommentAnchor extension for VSCode
 
-##Future development
+## Future development
+
 - Better text tokemization
 - More code snippets
 - Topas Theme for more accurate text highlighting
