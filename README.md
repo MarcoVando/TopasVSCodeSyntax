@@ -6,7 +6,7 @@ Initial release of Syntax package for text highlighting of .inp and .out files o
 
 This package provide useful syntax file for the syntax highlighting of .inp and .out files used to perform PXRD data analysis within TOPAS.
 Snippets of useful codes are also available.  
-In particular, with this extension the following token are identified
+In particular, with this extension the following tokens are identified
 - Keywords
 - Macro
 - Refinable parameters
