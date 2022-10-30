@@ -29,6 +29,7 @@ With this repo refinable parameters, equations, wrong syntaxes ... are identifie
 ## Known Issues
 
 Syntax highlighting could not work properly for some commands. In case of errors please, report them.
+Parameters value without the "fix" identifier are not identifies as refinable.
 
 ## Release Notes
 
